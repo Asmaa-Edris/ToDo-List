@@ -124,8 +124,9 @@ cursor: pointer;
     background-size: 24px 24px; 
   }
   #task-list li span {
-    font-size: 20px; 
+    font-size: 25px; 
     right: 10px;
   }
 }
+
 
